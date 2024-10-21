@@ -4,5 +4,7 @@ extensions:
     version: 1.0.4
     url: https://github.com/PioneerTiger/dmzj/archive/refs/tags/v1.0.4.zip
 
-
-
+  -
+    name: manhuagui
+    version: 1.0.16
+    url: https://github.com/PioneerTiger/manhuagui/archive/refs/tags/v1.0.16.zip
